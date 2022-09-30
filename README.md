@@ -1,5 +1,5 @@
 # Python-Image-Sorting-System
-A little exif-based image sorting script I wrote in python when I was bored.
+A little exif-based image sorting script I wrote in 2020 when I was bored.
 
 I was in the process of reworking it to be able to sort images and videos of almost any format, but never got around to finishing it.
 In the brief time that it did work, it successfully sorted and organized several thousand pictures for me, quite quickly.
